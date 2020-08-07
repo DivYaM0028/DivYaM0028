@@ -32,6 +32,8 @@
 <br />
 <br />
 
+### Stats:
+
 <img align="left" alt="DivYaM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DivYaM0028&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/DivYaM1228
