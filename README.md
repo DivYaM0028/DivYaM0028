@@ -5,6 +5,8 @@
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and  always try new things!!
 
+---
+
 ### Connect with me:
 
 [<img align="left" alt="DP1228 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
@@ -13,6 +15,8 @@
 [<img align="left" alt="divyam_0028 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
