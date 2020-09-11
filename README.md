@@ -1,4 +1,4 @@
-### Hi there, I'm DivYaM - aka [Divyam Saxena][website]👋
+#### Hi there, I'm DivYaM - aka [Divyam Saxena][website]👋
 
 ## I'm a Developer, and Coder!
 - 🌱 I’m currently learning everything 🤣
